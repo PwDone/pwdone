@@ -1,0 +1,50 @@
+name: Feature request
+description: Suggest an improvement for PwDone
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the suggestion. Please do not include encrypted files,
+        passwords, license keys or personal data.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      placeholder: "I often need to ... but PwDone ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you have considered
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Recovery workflow
+        - Supported formats
+        - Performance
+        - UI / translations
+        - Licensing / purchase
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context

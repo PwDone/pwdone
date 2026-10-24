@@ -1,0 +1,21 @@
+PwDone
+Copyright (c) 2026 PwDone. All rights reserved.
+
+This repository is the product hub for the PwDone application. It contains
+documentation, release assets and product information.
+
+The PwDone application, including its source code, installers and bundled
+engine configuration, is proprietary software. No permission is granted to
+copy, modify, distribute, sublicense or create derivative works from the
+application except as expressly allowed by the PwDone EULA:
+
+    https://pwdone.com/eula
+
+The text and images in this repository may be used for editorial coverage and
+unmodified references to PwDone. Logos and trademarks may not be used to imply
+endorsement.
+
+"PwDone" and the PwDone logo are trademarks of PwDone.
+
+Third-party components (Hashcat, John the Ripper and others) are governed by
+their own licenses. See the notices shipped with the application.

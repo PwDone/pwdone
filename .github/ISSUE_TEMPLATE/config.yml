@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support
+    url: https://pwdone.com/contact
+    about: Billing, licenses and general questions.
+  - name: Security report
+    url: https://pwdone.com/contact
+    about: Please report vulnerabilities privately. See SECURITY.md.

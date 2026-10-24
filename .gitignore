@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and local environment
+*.log
+.env
+.env.*
+!.env.example
+
+# Local build artifacts (publish installers as GitHub Release assets)
+*.exe
+*.msi
+*.dmg
+*.pkg
